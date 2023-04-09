@@ -1,1 +1,1 @@
-print (7)
+#just for practie, never mind dude
