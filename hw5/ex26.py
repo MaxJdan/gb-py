@@ -6,5 +6,6 @@ def deg(a, b):
     return a
   if b != 1:
     return a * deg(a, b - 1)
-    
+
+
 print(deg(a, b))
