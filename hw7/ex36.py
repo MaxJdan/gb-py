@@ -5,4 +5,4 @@ def print_operation_table(operation, num_rows=6, num_columns=6):
             num = operation(x, y)
             lists.append(num)
         print(*[str(x) for x in lists])
-print_operation_table(lambda x, y: x * y )
+print_operation_table(lambda x, y: x * y)
